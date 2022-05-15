@@ -49,4 +49,19 @@ class FrontendController extends Controller
             ]);
         }
     }
+
+    function privacypolicy()
+    {
+        return view('frontend.privacy', [
+            'logo' => Logo::find(1),
+            'categories' => Category::all(),
+        ]);
+    }
+    function termsandcondition()
+    {
+        return view('frontend.condition', [
+            'logo' => Logo::find(1),
+            'categories' => Category::all(),
+        ]);
+    }
 }

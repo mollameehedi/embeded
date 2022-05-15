@@ -21,6 +21,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [App\Http\Controllers\FrontendController::class, 'index'])->name('index');
 
 Route::get('/book/filter', [App\Http\Controllers\FrontendController::class, 'bookfilter'])->name('book.filter');
+Route::get('/privacy-policy', [App\Http\Controllers\FrontendController::class, 'privacypolicy'])->name('privacy.policy');
+Route::get('/terms-and-condition', [App\Http\Controllers\FrontendController::class, 'termsandcondition'])->name('terms.and.condition');
 
 
 // ProfileController Start
