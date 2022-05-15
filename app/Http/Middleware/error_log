@@ -1,0 +1,336 @@
+[27-Jan-2022 15:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/Authenticate.php on line 7
+[27-Jan-2022 15:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Jan-2022 15:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[27-Jan-2022 15:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrimStrings.php on line 7
+[27-Jan-2022 15:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustHosts.php on line 7
+[27-Jan-2022 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/TrustProxies.php on line 8
+[27-Jan-2022 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[27-Jan-2022 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Middleware/VerifyCsrfToken.php on line 7

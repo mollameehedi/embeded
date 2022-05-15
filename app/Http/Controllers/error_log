@@ -1,0 +1,336 @@
+[27-Jan-2022 15:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BannerController.php on line 10
+[27-Jan-2022 15:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/BookController.php on line 12
+[27-Jan-2022 15:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/CategoryController.php on line 9
+[27-Jan-2022 15:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Controller.php on line 10
+[27-Jan-2022 15:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/FrontendController.php on line 13
+[27-Jan-2022 15:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/HomeController.php on line 13
+[27-Jan-2022 15:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12
+[27-Jan-2022 15:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/ProfileController.php on line 12

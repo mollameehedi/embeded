@@ -1,0 +1,288 @@
+[27-Jan-2022 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[27-Jan-2022 15:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[27-Jan-2022 15:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/LoginController.php on line 9
+[27-Jan-2022 15:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/RegisterController.php on line 12
+[27-Jan-2022 15:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[27-Jan-2022 15:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9
+[27-Jan-2022 15:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/futurei1/netflix.futureinltd.com/app/Http/Controllers/Auth/VerificationController.php on line 9

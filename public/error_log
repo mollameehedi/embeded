@@ -1,0 +1,1 @@
+[06-Apr-2022 02:33:52 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.28. in /home/futuolgq/embeded.futureinltd.com/vendor/composer/platform_check.php on line 24
