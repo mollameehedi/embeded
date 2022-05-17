@@ -20,6 +20,7 @@
     <link href="{{ asset('dashboardAsset') }}/plugins/charts/chartist/chartist.css" rel="stylesheet" type="text/css">
     <link href="{{ asset('dashboardAsset') }}/assets/css/default-dashboard/style.css" rel="stylesheet" type="text/css" />    
     <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset') }}/plugins/table/datatable/datatables.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset/back/css/editor.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset') }}/assets/css/ecommerce/product.css">
     @yield('addetional_css')
     <!-- END PAGE LEVEL/plugins/CUSTOM STYLES -->   
@@ -147,6 +148,30 @@
                             </div>
                         </a>
                     </li>
+                    <li class="menu active">
+                        <a href="{{ route('faq.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>FAQ</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="menu active">
+                        <a href="{{ route('privacy-policy.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>Privacy Policy</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="menu active">
+                        <a href="{{ route('term-and-condition.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>Terms and Conditions</span>
+                            </div>
+                        </a>
+                    </li>
                 </ul>
             </nav>
 
@@ -182,6 +207,7 @@
 
 
     <!-- BEGIN PAGE LEVEL {{ asset('dashboardAsset') }}/plugins/CUSTOM SCRIPTS -->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/charts/chartist/chartist.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/maps/vector/jvector/jquery-jvectormap-2.0.3.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/maps/vector/jvector/worldmap_script/jquery-jvectormap-world-mill-en.js"></script>
@@ -189,9 +215,9 @@
     <script src="{{ asset('dashboardAsset') }}/plugins/calendar/pignose/pignose.calendar.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/progressbar/progressbar.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/assets/js/default-dashboard/default-custom.js"></script>
-    <script src="{{ asset('dashboardAsset') }}/assets/js/support-chat.js"></script>
+    
+    <script src="{{ asset('dashboardAsset/assets/js/editor.js') }}"></script>
     <script src="{{ asset('dashboardAsset') }}/assets/js/Development.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <!-- BEGIN PAGE LEVEL {{ asset('dashboardAsset') }}/plugins/CUSTOM SCRIPTS -->
     @yield('footerScript')
 </body>
