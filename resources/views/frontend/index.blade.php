@@ -108,4 +108,29 @@
   </section>
   <!-- slider-part ends -->
 
+  {{-- FAQ part start --}}
+  <section id="faq">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <h3>Frequently Asked Question</h3>
+                <ul>
+                  @forelse ($faqs as $faq)
+                  <li>
+                    <h4>{{ $faq->question }}?</h4>
+                    <p>{{ $faq->answer }}</p>
+                  </li>
+                  @empty
+                  <li>
+                    <h4>Data not found!!</h4>
+                  </li>
+                  @endforelse
+                  
+                </ul>
+              </div>
+            </div>
+        </div>
+  </section>
+  {{-- FAQ part end --}}
+
 @endsection

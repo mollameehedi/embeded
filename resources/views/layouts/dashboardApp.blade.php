@@ -20,6 +20,7 @@
     <link href="{{ asset('dashboardAsset') }}/plugins/charts/chartist/chartist.css" rel="stylesheet" type="text/css">
     <link href="{{ asset('dashboardAsset') }}/assets/css/default-dashboard/style.css" rel="stylesheet" type="text/css" />    
     <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset') }}/plugins/table/datatable/datatables.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset/back/css/editor.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('dashboardAsset') }}/assets/css/ecommerce/product.css">
     @yield('addetional_css')
     <!-- END PAGE LEVEL/plugins/CUSTOM STYLES -->   
@@ -60,6 +61,7 @@
 
 
         <ul class="navbar-nav flex-row ml-lg-auto">
+            <li style="margin: auto; padding-right:20px"><a href="{{ route('index') }}" target="_blank"  class="btn btn-primary">Website</a></li>
             <li class="nav-item dropdown user-profile-dropdown ml-lg-0 mr-lg-2 ml-3 order-lg-0 order-1">
                 <a href="javascript:void(0);" class="nav-link dropdown-toggle user" id="userProfileDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <span> <img  style="width: 30px; height: 30px; border-radius: 50%;" src="{{ asset('uploads/profile') }}/{{ Auth::user()->photo }}" alt=""> </span>
@@ -147,6 +149,30 @@
                             </div>
                         </a>
                     </li>
+                    <li class="menu active">
+                        <a href="{{ route('faq.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>FAQ</span>
+                            </div>
+                        </a>
+                    </li>
+                    {{-- <li class="menu active">
+                        <a href="{{ route('privacy-policy.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>Privacy Policy</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="menu active">
+                        <a href="{{ route('term-and-condition.index') }}" class="dropdown-toggle active">
+                            <div class="">
+                                <i class="flaticon-map-1"></i>
+                                <span>Terms and Conditions</span>
+                            </div>
+                        </a>
+                    </li> --}}
                 </ul>
             </nav>
 
@@ -182,6 +208,7 @@
 
 
     <!-- BEGIN PAGE LEVEL {{ asset('dashboardAsset') }}/plugins/CUSTOM SCRIPTS -->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/charts/chartist/chartist.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/maps/vector/jvector/jquery-jvectormap-2.0.3.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/maps/vector/jvector/worldmap_script/jquery-jvectormap-world-mill-en.js"></script>
@@ -189,9 +216,9 @@
     <script src="{{ asset('dashboardAsset') }}/plugins/calendar/pignose/pignose.calendar.js"></script>
     <script src="{{ asset('dashboardAsset') }}/plugins/progressbar/progressbar.min.js"></script>
     <script src="{{ asset('dashboardAsset') }}/assets/js/default-dashboard/default-custom.js"></script>
-    <script src="{{ asset('dashboardAsset') }}/assets/js/support-chat.js"></script>
+    
+    <script src="{{ asset('dashboardAsset/assets/js/editor.js') }}"></script>
     <script src="{{ asset('dashboardAsset') }}/assets/js/Development.js"></script>
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <!-- BEGIN PAGE LEVEL {{ asset('dashboardAsset') }}/plugins/CUSTOM SCRIPTS -->
     @yield('footerScript')
 </body>

@@ -6,6 +6,7 @@ use App\Models\Banner;
 use App\Models\Book;
 use App\Models\Category;
 use App\Models\Logo;
+use App\Models\Faq;
 use Spatie\QueryBuilder\QueryBuilder;
 use Spatie\QueryBuilder\AllowedFilter;
 use Illuminate\Http\Request;
@@ -23,7 +24,8 @@ class FrontendController extends Controller
             'banners' => Banner::latest()->get(),
             'categories' => Category::all(),
             'books' => Book::latest()->get(),
-            'logo' => Logo::find(1)
+            'logo' => Logo::find(1),
+            'faqs' => Faq::latest()->get()
         ]);
     }
 
