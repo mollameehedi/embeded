@@ -23,6 +23,7 @@
  <!-- navbar start -->
  <nav class="navbar navbar-expand-lg navbar-light ">
     <div class="container">
+      
       <a class="navbar-brand" href="{{ route('index') }}">
         <img src="{{ asset('uploads/logo') }}/{{ $logo->logo }}" alt="{{ $logo->logo }}">
       </a>
@@ -73,6 +74,10 @@
         <div class="col-lg-12 text-center">
           <a href="{{ route('index') }}" class="footer-logo"><img src="{{ asset('uploads/logo') }}/{{ $logo->logo }}" alt="{{ $logo->logo }}"></a>
           <p>Copyright  ©<span id="year"></span> Template has been designed by <a href="https://www.sohanthink.com/">Sohanthink</a></p>
+          <ul>
+            <li><a href="{{ route('privacy.policy') }}">Privacy Policy</a></li>
+            <li><a href="{{ route('terms.and.condition') }}">Terms and Conditions</a></li>
+          </ul>
         </div>
       </div>
     </div>

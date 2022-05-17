@@ -68,13 +68,13 @@ Route::resource('home/book', BookController::class);
 Route::resource('home/banner', BannerController::class);
 // BannerController Ends
 
-// PrivacyController Start
-Route::resource('home/privacy-policy', PrivacyController::class);
-// PrivacyController Ends
+// // PrivacyController Start
+// Route::resource('home/privacy-policy', PrivacyController::class);
+// // PrivacyController Ends
 
-// ConditionController Start
-Route::resource('home/term-and-condition', ConditionController::class);
-// ConditionController Ends
+// // ConditionController Start
+// Route::resource('home/term-and-condition', ConditionController::class);
+// // ConditionController Ends
 
 // ConditionController Start
 Route::resource('home/faq', FaqController::class);

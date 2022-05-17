@@ -61,6 +61,7 @@
 
 
         <ul class="navbar-nav flex-row ml-lg-auto">
+            <li style="margin: auto; padding-right:20px"><a href="{{ route('index') }}" target="_blank"  class="btn btn-primary">Website</a></li>
             <li class="nav-item dropdown user-profile-dropdown ml-lg-0 mr-lg-2 ml-3 order-lg-0 order-1">
                 <a href="javascript:void(0);" class="nav-link dropdown-toggle user" id="userProfileDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <span> <img  style="width: 30px; height: 30px; border-radius: 50%;" src="{{ asset('uploads/profile') }}/{{ Auth::user()->photo }}" alt=""> </span>
@@ -156,7 +157,7 @@
                             </div>
                         </a>
                     </li>
-                    <li class="menu active">
+                    {{-- <li class="menu active">
                         <a href="{{ route('privacy-policy.index') }}" class="dropdown-toggle active">
                             <div class="">
                                 <i class="flaticon-map-1"></i>
@@ -171,7 +172,7 @@
                                 <span>Terms and Conditions</span>
                             </div>
                         </a>
-                    </li>
+                    </li> --}}
                 </ul>
             </nav>
 
